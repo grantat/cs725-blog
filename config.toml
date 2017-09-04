@@ -1,0 +1,28 @@
+baseURL = "http://www.cs.odu.edu/~gatkins/cs725/"
+languageCode = "en-us"
+title = "GrantAtkins|CS725"
+theme = "newsprint"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[params]
+
+subtitle = "A collection of assignments for ODU's Information Visualization course"
+author = "Grant Atkins"
+email = "gatki001@odu.edu"
+
+[mediaTypes]
+[mediaTypes."application/atom"]
+
+suffix = "xml"
+
+[outputFormats.Atom]
+
+mediaType = "application/atom"
+baseName = "atom"
+isPlainText = false
+
+[outputs]
+
+home = [ "HTML", "Atom" ]
