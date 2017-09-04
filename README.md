@@ -1,7 +1,7 @@
 # CS725 blog builder
 
 This blog was created using [HUGO](https://gohugo.io/documentation/) static site generator. This blog is hosted at:
-http://www.cs.odu.edu/~gatkins/cs7225/.
+http://www.cs.odu.edu/~gatkins/cs725/.
 
 Some quick useful HUGO commands:
 
