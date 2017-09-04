@@ -6,6 +6,7 @@ cover_link: https://www.flickr.com/photos/samwhited/15073115760/lightbox
 cover_caption: "Cloud Fall"
 thumbnail: https://farm4.staticflickr.com/3907/15073115760_48c21397fb_q_d.jpg
 content_class: poem
+draft: true
 ---
 
 Desktops with Linux and [IETF kitten]  

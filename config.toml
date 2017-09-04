@@ -1,4 +1,4 @@
-baseURL = "http://www.cs.odu.edu/~gatkins/cs725/"
+baseURL = ""
 languageCode = "en-us"
 title = "GrantAtkins|CS725"
 theme = "newsprint"

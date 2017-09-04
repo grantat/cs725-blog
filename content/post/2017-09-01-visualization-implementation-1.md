@@ -5,7 +5,7 @@ thumbnail: /images/v1_logo.png
 cover: /images/v1_logo.png
 cover_width: 350
 cover_caption_class: centering
-draft: true
+draft: false
 ---
 
 First solution to Visualization Implementation 1 for CS725. The requirements for this
@@ -63,6 +63,21 @@ to keep everything in the in their respective sections.
 
 ## R
 
+<img class="img-limit center-block" alt="R png" src="/images/autos.png">
+
+The png example given in Frank McCown's "Producing Simple Graphs with R" calls upon
+various functions to help create the `autos` line graph shown above.
+The functions and their parameters can be explained as follows:
+
+- `autos_data <- read.table()`: creates a data table from the autos.dat
+that has a header to describe the columns of data and the information is seperated by tabs (\t). It should be noted since I worked on mac my
+data location was "../data/autos.dat"
+- `max_y <- max(autos_data)`: finds the max value in the autos_data data
+table
+- `plot_colors <- c("blue","red","forestgreen")`: sets a vector of colors
+to a variable
+- `png()`: starts a buffer to a png image file
+- `plot(autos_data$cars)`: 
 
 ## Tableau
 

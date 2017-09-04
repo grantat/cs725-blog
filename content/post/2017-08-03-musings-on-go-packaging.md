@@ -11,6 +11,7 @@ description: >
               Thoughts on finding a balance between centralized and distributed
               package management that works well for package authors, consumers,
               and companies with strict package management policies.
+draft: true
 ---
 
 The [`go`] tool generally pulls packages directly from version control and
