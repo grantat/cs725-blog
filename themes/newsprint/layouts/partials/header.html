@@ -30,7 +30,7 @@
 			{{- partial "next" . -}}
 			{{- end -}}
 			{{- end -}}
-			<h1><a href="/" class="site-title">{{ .Site.Title }}</a></h1>
+			<h1><a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a></h1>
 			{{- if eq .Section "post" -}}
 			{{- if .PrevInSection -}}
 			<a class="prev" href="{{ .PrevInSection.Permalink }}">Prev</a>

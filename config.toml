@@ -1,7 +1,8 @@
-baseURL = ""
+baseURL = "http://www.cs.odu.edu/~gatkins/cs725"
 languageCode = "en-us"
 title = "GrantAtkins|CS725"
 theme = "newsprint"
+canonifyURLs = true
 
 [permalinks]
   post = "/:year/:month/:title/"
