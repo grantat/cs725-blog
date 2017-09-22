@@ -1,0 +1,518 @@
+[
+    {
+        "amount": 95387010.99,
+        "recip": "Indonesia"
+    },
+    {
+        "amount": 297.969,
+        "recip": "Singapore"
+    },
+    {
+        "amount": 1070099.9,
+        "recip": "Colombia"
+    },
+    {
+        "amount": 22715.3,
+        "recip": "Timor-Leste"
+    },
+    {
+        "amount": 173345917.845,
+        "recip": "Bilateral, unspecified"
+    },
+    {
+        "amount": 93517.801,
+        "recip": "Solomon Islands"
+    },
+    {
+        "amount": 274039.9,
+        "recip": "Papua New Guinea"
+    },
+    {
+        "amount": 2047072.25,
+        "recip": "Cambodia"
+    },
+    {
+        "amount": 2111468.51,
+        "recip": "Uganda"
+    },
+    {
+        "amount": 1726181.38,
+        "recip": "Africa, regional"
+    },
+    {
+        "amount": 2066583.0600000003,
+        "recip": "Nicaragua"
+    },
+    {
+        "amount": 555325.0,
+        "recip": "Algeria"
+    },
+    {
+        "amount": 35630542.3,
+        "recip": "Malawi"
+    },
+    {
+        "amount": 2706811.4000000004,
+        "recip": "Mozambique"
+    },
+    {
+        "amount": 469926.4,
+        "recip": "El Salvador"
+    },
+    {
+        "amount": 5442733.15,
+        "recip": "Congo, Dem. Rep."
+    },
+    {
+        "amount": 216107.01,
+        "recip": "Senegal"
+    },
+    {
+        "amount": 3375431.880000001,
+        "recip": "Peru"
+    },
+    {
+        "amount": 732799.34,
+        "recip": "Burundi"
+    },
+    {
+        "amount": 219102.24,
+        "recip": "Nepal"
+    },
+    {
+        "amount": 149235.0,
+        "recip": "Benin"
+    },
+    {
+        "amount": 414359.06,
+        "recip": "Guatemala"
+    },
+    {
+        "amount": 4994800.836,
+        "recip": "Zambia"
+    },
+    {
+        "amount": 5512443.1,
+        "recip": "Guinea"
+    },
+    {
+        "amount": 865726.4999999999,
+        "recip": "Ethiopia"
+    },
+    {
+        "amount": 11468683.3,
+        "recip": "South Africa"
+    },
+    {
+        "amount": 828928.9,
+        "recip": "Zimbabwe"
+    },
+    {
+        "amount": 242745.03,
+        "recip": "North of Sahara, regional"
+    },
+    {
+        "amount": 752700.4,
+        "recip": "Laos"
+    },
+    {
+        "amount": 1298832.2999999998,
+        "recip": "Asia, regional"
+    },
+    {
+        "amount": 2528098.0,
+        "recip": "Guyana"
+    },
+    {
+        "amount": 290776.0,
+        "recip": "Bhutan"
+    },
+    {
+        "amount": 6980857.3,
+        "recip": "N. & C. America, regional"
+    },
+    {
+        "amount": 400142.18999999994,
+        "recip": "Honduras"
+    },
+    {
+        "amount": 8396599.7,
+        "recip": "Pakistan"
+    },
+    {
+        "amount": 17069278.299999997,
+        "recip": "Sri Lanka"
+    },
+    {
+        "amount": 136.453,
+        "recip": "Gambia"
+    },
+    {
+        "amount": 497754.13,
+        "recip": "Sierra Leone"
+    },
+    {
+        "amount": 619720.6,
+        "recip": "Haiti"
+    },
+    {
+        "amount": 4698612.0,
+        "recip": "Philippines"
+    },
+    {
+        "amount": 464285.25284699997,
+        "recip": "Madagascar"
+    },
+    {
+        "amount": 107051.20000000001,
+        "recip": "Ecuador"
+    },
+    {
+        "amount": 1706996.0599999998,
+        "recip": "Iraq"
+    },
+    {
+        "amount": 127285.44,
+        "recip": "Moldova"
+    },
+    {
+        "amount": 174076.0,
+        "recip": "Lithuania"
+    },
+    {
+        "amount": 357698.9,
+        "recip": "Botswana"
+    },
+    {
+        "amount": 58570.25,
+        "recip": "Yemen"
+    },
+    {
+        "amount": 140641.0,
+        "recip": "South & Central Asia, regional"
+    },
+    {
+        "amount": 670188.1,
+        "recip": "Ukraine"
+    },
+    {
+        "amount": 22872540.21,
+        "recip": "India"
+    },
+    {
+        "amount": 3926431.5089999996,
+        "recip": "Egypt"
+    },
+    {
+        "amount": 3207883.0,
+        "recip": "Mali"
+    },
+    {
+        "amount": 131824.5,
+        "recip": "Cote D'Ivoire"
+    },
+    {
+        "amount": 1402602.0,
+        "recip": "Central African Rep."
+    },
+    {
+        "amount": 646950.3,
+        "recip": "Mexico"
+    },
+    {
+        "amount": 65180.7,
+        "recip": "Tunisia"
+    },
+    {
+        "amount": 1181660.0,
+        "recip": "Equatorial Guinea"
+    },
+    {
+        "amount": 29121938.5,
+        "recip": "Mayotte"
+    },
+    {
+        "amount": 2412554.16,
+        "recip": "Sudan"
+    },
+    {
+        "amount": 868929.0,
+        "recip": "Vanuatu"
+    },
+    {
+        "amount": 5569426.1,
+        "recip": "Nigeria"
+    },
+    {
+        "amount": 170240.28999999998,
+        "recip": "Morocco"
+    },
+    {
+        "amount": 2534950.0,
+        "recip": "Venezuela"
+    },
+    {
+        "amount": 484735.0,
+        "recip": "Guinea-Bissau"
+    },
+    {
+        "amount": 277880.9,
+        "recip": "Sao Tome & Principe"
+    },
+    {
+        "amount": 36875.6,
+        "recip": "Azerbaijan"
+    },
+    {
+        "amount": 209504.5,
+        "recip": "Ghana"
+    },
+    {
+        "amount": 1467313.5,
+        "recip": "Brazil"
+    },
+    {
+        "amount": 1911837.3800000001,
+        "recip": "Tanzania"
+    },
+    {
+        "amount": 2856063.1,
+        "recip": "Macedonia, FYR"
+    },
+    {
+        "amount": 10408751.97,
+        "recip": "Viet Nam"
+    },
+    {
+        "amount": 8289.8,
+        "recip": "Armenia"
+    },
+    {
+        "amount": 1065135.83,
+        "recip": "Cameroon"
+    },
+    {
+        "amount": 50056069.7,
+        "recip": "Georgia"
+    },
+    {
+        "amount": 121821.22200000001,
+        "recip": "Mongolia"
+    },
+    {
+        "amount": 212052.7,
+        "recip": "Europe, regional"
+    },
+    {
+        "amount": 76162.39,
+        "recip": "Croatia"
+    },
+    {
+        "amount": 140597.3,
+        "recip": "Thailand"
+    },
+    {
+        "amount": 1531.21,
+        "recip": "Bosnia-Herzegovina"
+    },
+    {
+        "amount": 674509.92,
+        "recip": "Albania"
+    },
+    {
+        "amount": 327.45,
+        "recip": "Malaysia"
+    },
+    {
+        "amount": 94862.75,
+        "recip": "Kyrgyz Republic"
+    },
+    {
+        "amount": 2409220.1,
+        "recip": "Afghanistan"
+    },
+    {
+        "amount": 18103.3,
+        "recip": "Kenya"
+    },
+    {
+        "amount": 33009.0,
+        "recip": "Belize"
+    },
+    {
+        "amount": 82132.94,
+        "recip": "Chad"
+    },
+    {
+        "amount": 4535290.359999999,
+        "recip": "South of Sahara, regional"
+    },
+    {
+        "amount": 18683.65,
+        "recip": "Sts Ex-Yugo. Unspec."
+    },
+    {
+        "amount": 35797.5,
+        "recip": "Marshall Islands"
+    },
+    {
+        "amount": 193832.22999999998,
+        "recip": "Argentina"
+    },
+    {
+        "amount": 53284.345,
+        "recip": "Djibouti"
+    },
+    {
+        "amount": 3184160.63,
+        "recip": "Dominican Republic"
+    },
+    {
+        "amount": 10045.32,
+        "recip": "Togo"
+    },
+    {
+        "amount": 74.4707,
+        "recip": "Uruguay"
+    },
+    {
+        "amount": 95804.7,
+        "recip": "Far East Asia, regional"
+    },
+    {
+        "amount": 379929.0,
+        "recip": "Jordan"
+    },
+    {
+        "amount": 434754.64,
+        "recip": "China"
+    },
+    {
+        "amount": 31126.2,
+        "recip": "Turkey"
+    },
+    {
+        "amount": 3866420.0,
+        "recip": "Uzbekistan"
+    },
+    {
+        "amount": 500146.65,
+        "recip": "Bolivia"
+    },
+    {
+        "amount": 50710.869999999995,
+        "recip": "Angola"
+    },
+    {
+        "amount": 70556.6,
+        "recip": "Myanmar"
+    },
+    {
+        "amount": 8476780.4,
+        "recip": "Palestinian Adm. Areas"
+    },
+    {
+        "amount": 278084.3,
+        "recip": "Paraguay"
+    },
+    {
+        "amount": 867571.6,
+        "recip": "Kazakhstan"
+    },
+    {
+        "amount": 4335.83,
+        "recip": "Maldives"
+    },
+    {
+        "amount": 1251202.144009,
+        "recip": "Niger"
+    },
+    {
+        "amount": 39083.295999999995,
+        "recip": "Burkina Faso"
+    },
+    {
+        "amount": 1449360.0,
+        "recip": "Suriname"
+    },
+    {
+        "amount": 939952.6,
+        "recip": "Bangladesh"
+    },
+    {
+        "amount": 12710.9,
+        "recip": "Oceania, regional"
+    },
+    {
+        "amount": 612376.0,
+        "recip": "Cook Islands"
+    },
+    {
+        "amount": 561979.0,
+        "recip": "Somalia"
+    },
+    {
+        "amount": 26773.1,
+        "recip": "Cape Verde"
+    },
+    {
+        "amount": 159189.0,
+        "recip": "Chile"
+    },
+    {
+        "amount": 31286.6,
+        "recip": "Cuba"
+    },
+    {
+        "amount": 4957.7,
+        "recip": "Costa Rica"
+    },
+    {
+        "amount": 1125569.0,
+        "recip": "Mauritania"
+    },
+    {
+        "amount": 152611.0,
+        "recip": "Congo, Rep."
+    },
+    {
+        "amount": 743744.0,
+        "recip": "Panama"
+    },
+    {
+        "amount": 20512.6,
+        "recip": "Latvia"
+    },
+    {
+        "amount": 156411.0,
+        "recip": "America, regional"
+    },
+    {
+        "amount": 1219750.0,
+        "recip": "Belarus"
+    },
+    {
+        "amount": 153906.0,
+        "recip": "Tajikistan"
+    },
+    {
+        "amount": 99013.8,
+        "recip": "Poland"
+    },
+    {
+        "amount": 2790000.0,
+        "recip": "Jamaica"
+    },
+    {
+        "amount": 45890.1,
+        "recip": "Liberia"
+    },
+    {
+        "amount": 2994775.272,
+        "recip": "Serbia"
+    },
+    {
+        "amount": 1088110.0,
+        "recip": "Samoa"
+    }
+]
