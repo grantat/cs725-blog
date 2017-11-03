@@ -53,6 +53,9 @@ This seventh assignment explores D3 to visualize data created in Visualization I
 
 ## Interactive Barchart
 
+For this assignment I decided to use the AID Data previously obtained from Visualization Implementation 3.
+I had to refactor the data I previously had to include country names and then assign donated values to specific years from 1991 to 2010.
+
 To use my interactive barchart simply select the dropdown and select a year to view the donated amounts for each country for that year.
 It will automatically transition upon selection.
 
