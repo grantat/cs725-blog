@@ -19,4 +19,4 @@ $ hugo new post fileName
 $ hugo help
 ```
 
-This site theme used is [Newsprint](https://themes.gohugo.io/newsprint/) by Sam Whited.
+The site theme used is [Newsprint](https://themes.gohugo.io/newsprint/) by Sam Whited.
